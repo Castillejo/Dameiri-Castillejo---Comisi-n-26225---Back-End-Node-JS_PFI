@@ -31,3 +31,7 @@ API REST desarrollada con Node.js y Express para la administración de un catál
 2. Instala las dependencias del proyecto:
    ```bash
    npm install
+
+## ⚙️ Vercel
+
+   https://dameiri-castillejo-comisi-n-26225-b.vercel.app/api/products
